@@ -1,0 +1,10 @@
+/* je me suis permi de rajouter quelques lignes pour faire disparaitre
+le logo en haut a gauche quand il ne rentre plus sur la page
+ */
+@media screen and (max-width: 670px) {
+    .logo {
+        display: none;
+    }
+}
+
+
