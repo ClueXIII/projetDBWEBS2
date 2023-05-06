@@ -15,8 +15,7 @@ bouton.addEventListener("click", function() {
             divcats.forEach(function(divcat) {
               divcat.style.display = "block";
             });
-          }
-          if (data[2] !== categorie) {
+          } else if (data[2] !== categorie) {
             let cat = data[2];
             let divcats = document.querySelectorAll('.' + cat);
             divcats.forEach(function(divcat) {

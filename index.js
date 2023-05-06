@@ -33,3 +33,7 @@ bouton.addEventListener("click", function() {
     })
 });
 
+const suppbtn = document.getElementById("suppbtn");
+suppbtn.addEventListener("click", function() {
+  alert("Vous avez supprimé un article");
+} );
