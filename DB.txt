@@ -1,0 +1,9 @@
+01|stop|rond|20|https://cdn.pixabay.com/photo/2018/06/28/03/56/road-sign-3503136_960_720.png
+02|stop|triangle|20|https://svpsign.fr/wp-content/uploads/2021/10/AK17.png
+03|stop|carré|20|https://cdn.pixabay.com/photo/2012/04/10/17/17/road-sign-26521_960_720.png
+04|stop|rond|20|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/France_road_sign_A14.svg/1163px-France_road_sign_A14.svg.png
+05|stop|triangle|20|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/France_road_sign_AK5.svg/2323px-France_road_sign_AK5.svg.png
+06|stop|rond|20|https://svpsign.fr/wp-content/uploads/2021/09/A2b.png
+07|stop|carré|20|https://images.trafficsupply.nl/imgfill/900/900/i-119437-fda/panneau-de-signalisation-chute-de-branches.png
+08|stop|triangle|20|https://panneau-de-signalisation.com/38-home_default/panneau-fin-du-caractere-prioritaire-d-une-route-ab7.jpg
+09|stop|carré|20|https://image.jimcdn.com/app/cms/image/transf/dimension=1820x1280:format=png/path/sf02da5245aa3c986/image/i6f399424776d369b/version/1610483742/image.png
