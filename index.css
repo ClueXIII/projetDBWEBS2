@@ -7,4 +7,11 @@ le logo en haut a gauche quand il ne rentre plus sur la page
     }
 }
 
+.menu {
+    font-size: 3vh;
+}
 
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}

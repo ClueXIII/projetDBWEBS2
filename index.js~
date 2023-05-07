@@ -33,3 +33,12 @@ bouton.addEventListener("click", function() {
     })
 });
 
+function fillmodifform(id,nom,forme,prix,urlimage){
+  console.log("id : " + id + " nom : " + nom + " forme : " + forme + " prix : " + prix + " urlimage : " + urlimage);
+  let form = document.getElementById("modifform");
+  form.elements["id"].value = id;
+  form.elements["nom"].value = nom;
+  form.elements["forme"].value = forme;
+  form.elements["prix"].value = prix;
+  form.elements["image"].value = urlimage;
+}
